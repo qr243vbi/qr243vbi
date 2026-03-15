@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=qr243vbi&color=green"/>
 </p>
 
-<img align='right' src='https://octodex.github.com/images/spidertocat.png' align=center width='15%'>  
+<img align='right' src='https://octodex.github.com/images/puppeteer.png' align=center width='15%'>  
 
 {
 

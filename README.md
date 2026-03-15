@@ -21,6 +21,3 @@
   <img src ="https://github-readme-streak-stats-gilt-sigma.vercel.app?user=qr243vbi&theme=gruvbox-duo&layou&hide_border=true&background=00000000">
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy-one-rose.vercel.app/?username=qr243vbi&theme=gruvbox&no-bg=true&rank=-?&margin-w=15&margin-h=15&column=6"/>
-</p>

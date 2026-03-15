@@ -22,3 +22,7 @@
 ### Featured Projects
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=qr243vbi&repo=nekobox)](https://github.com/qr243vbi/nekobox)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=qr243vbi&repo=nekobox)](https://github.com/qr243vbi/uget)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=qr243vbi&repo=nekobox)](https://github.com/qr243vbi/sing-box)

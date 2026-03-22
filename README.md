@@ -30,5 +30,3 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=qr243vbi&repo=uget-extension)](https://github.com/qr243vbi/uget-extension)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=qr243vbi&repo=waydroid-helper)](https://github.com/qr243vbi/waydroid-helper)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=qr243vbi&repo=waydroid_script)](https://github.com/qr243vbi/waydroid_script)

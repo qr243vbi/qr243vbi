@@ -11,7 +11,7 @@
 * `My name is`: **qr243vbi**
 * `Pronouns`: **He/Him**
 * `Location`: **Earth**
-* `I'm learning`: **C++**
+* `I'm learning`: **C++/Golang**
 
 }
 

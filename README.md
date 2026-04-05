@@ -23,10 +23,8 @@
 
 [![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?theme=radical&username=qr243vbi&repo=nekobox)](https://github.com/qr243vbi/nekobox)
 
-[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?theme=radical&username=qr243vbi&repo=uget)](https://github.com/qr243vbi/uget)
-
 [![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?theme=radical&username=qr243vbi&repo=sing-box)](https://github.com/qr243vbi/sing-box)
 
-[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?theme=radical&username=qr243vbi&repo=uget-extension)](https://github.com/qr243vbi/uget-extension)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?theme=radical&username=qr243vbi&repo=uget)](https://github.com/qr243vbi/uget)
 
-[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?theme=radical&username=qr243vbi&repo=cmdescape)](https://github.com/qr243vbi/uget-extension)
+[![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?theme=radical&username=qr243vbi&repo=uget-extension)](https://github.com/qr243vbi/uget-extension)

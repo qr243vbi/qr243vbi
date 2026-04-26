@@ -7,12 +7,10 @@
 <img align='right' src='https://octodex.github.com/images/puppeteer.png' align=center width='15%'>  
 
 {
-
 * `My name is`: **qr243vbi**
 * `Pronouns`: **He/Him**
 * `Location`: **Earth**
-* `I'm learning`: **C++/Golang**
-
+* `I'm using`: **C++/Golang**
 }
 
 <p align="center">
